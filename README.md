@@ -29,15 +29,15 @@ Best and Worst Selling Pizzas: The best-selling pizza is the "Classic Deluxe Piz
 
 Based on the data provided, there are several implications and actionable insights for Plato's Pizza:
 
-Peak Hour Staffing: To accommodate the high volume of orders during peak periods around 12 PM and 6 PM, it's crucial to have a well-staffed kitchen and service team. This ensures that orders are prepared efficiently and customers receive prompt service.
+- Peak Hour Staffing: To accommodate the high volume of orders during peak periods around 12 PM and 6 PM, it's crucial to have a well-staffed kitchen and service team. This ensures that orders are prepared efficiently and customers receive prompt service.
 
-Menu Optimization: While the "Classic Deluxe Pizza" is a top-seller, it might be beneficial to analyze the ingredients and features that make it popular and consider incorporating similar elements into other pizzas. Conversely, the "Biere Care Pizza" with its single size could be reevaluated, offering more size options to increase its appeal.
+- Menu Optimization: While the "Classic Deluxe Pizza" is a top-seller, it might be beneficial to analyze the ingredients and features that make it popular and consider incorporating similar elements into other pizzas. Conversely, the "Biere Care Pizza" with its single size could be reevaluated, offering more size options to increase its appeal.
 
-Reservation System: Implementing a reservation system can help manage the influx of customers during peak hours, ensuring that available tables are optimally utilized. This can enhance the overall dining experience and reduce wait times.
+- Reservation System: Implementing a reservation system can help manage the influx of customers during peak hours, ensuring that available tables are optimally utilized. This can enhance the overall dining experience and reduce wait times.
 
-Table Turnaround: Improving table turnaround time is essential for maximizing seating capacity utilization. Encourage diners to conclude their meals efficiently without rushing them, potentially through menu recommendations and incentives for timely dining.
+- Table Turnaround: Improving table turnaround time is essential for maximizing seating capacity utilization. Encourage diners to conclude their meals efficiently without rushing them, potentially through menu recommendations and incentives for timely dining.
 
-Pricing Strategy: Consider a pricing strategy that encourages customers to dine during off-peak hours, such as offering special deals or discounts for lunch or early dinners. This can help distribute the customer load more evenly throughout the day.
+- Pricing Strategy: Consider a pricing strategy that encourages customers to dine during off-peak hours, such as offering special deals or discounts for lunch or early dinners. This can help distribute the customer load more evenly throughout the day.
 
-Customer Experience: Maintaining the quality of service, even during busy periods, is vital. Ensure that the staff is trained to provide excellent service, as a positive customer experience can lead to repeat business and word-of-mouth referrals.
+- Customer Experience: Maintaining the quality of service, even during busy periods, is vital. Ensure that the staff is trained to provide excellent service, as a positive customer experience can lead to repeat business and word-of-mouth referrals.
 
