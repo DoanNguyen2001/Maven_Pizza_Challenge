@@ -14,7 +14,7 @@ The dataset comprises four CSV tables:
 4. **Pizza Types Table:** Provides insights into pizza types found in the Pizzas table, including their menu name, category, and ingredient list.
 
 ## Detailed Analysis
-[Pizza 1.pdf](https://github.com/DoanNguyen2001/Maven_Pizza_Challenge/files/13069327/Pizza.1.pdf)
+![image](https://github.com/DoanNguyen2001/Maven_Pizza_Challenge/assets/147706017/67f90d97-eec5-46c5-8f37-d16517e90ad5)
 
 Busiest Days and Times: The busiest day of the week is Friday, with a total of 3,538 orders. As for peak periods, around 12 PM sees 2,520 orders, and 6 PM is also busy with 2,399 orders.
 
